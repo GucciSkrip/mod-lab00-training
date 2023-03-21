@@ -1,11 +1,11 @@
 // Copyright 2022 UNN-IASR
-#include "fun.h"
-
 #include <iostream>
+
+#include "fun.h"
 
 int x, n;
 
-int main(){
+int main() {
     std::cout << "Enter X = ";
     std::cin >> x;
     std::cout << "Enter N = ";
